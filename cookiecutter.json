@@ -1,0 +1,8 @@
+{
+    "full_name": "Jesse Cusack",
+    "email": "jmcusack@marine.rutgers.edu",
+    "package_name": "new_package",
+    "description": "",
+    "create_author_file": "y",
+    "open_source_license": ["MIT license", "BSD license", "ISC license", "Apache Software License 2.0", "GNU General Public License v3", "Not open source"]
+}
